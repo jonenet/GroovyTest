@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GroovyTest.iml" filepath="$PROJECT_DIR$/GroovyTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestPlugin/TestPlugin.iml" filepath="$PROJECT_DIR$/TestPlugin/TestPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/client.iml" filepath="$PROJECT_DIR$/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugin/plugin.iml" filepath="$PROJECT_DIR$/plugin/plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uploadLibrary/uploadLibrary.iml" filepath="$PROJECT_DIR$/uploadLibrary/uploadLibrary.iml" />
+    </modules>
+  </component>
+</project>
